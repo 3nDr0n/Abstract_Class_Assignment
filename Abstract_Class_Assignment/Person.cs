@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Define the abstract class Person
+// Create abstract class called Person
 public abstract class Person
 {
     // Properties
